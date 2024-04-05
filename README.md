@@ -1,4 +1,4 @@
-# Upgrad-Assignment
+# Python-Assignment
 There are two sets of data 
   The first is price data, which is available in a Python data structure called a dictionary. 
   This dictionary has been named item_dict, and it stores the price of each item that is available in the store.
